@@ -1,0 +1,7 @@
+gevent==1.4.0
+greenlet==1.0.0
+py-bee-config==0.1.0
+py-bee-util==0.1.1
+PyMySQL==1.0.2
+PyYAML==5.4.1
+typing-extensions==3.7.4.3
